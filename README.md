@@ -1,2 +1,5 @@
-# -Development
+# Development
 小規模個人開発用リポジトリ
+
+ちょっとしたツールなどを作成する予定
+基本、作業はdevelopブランチで行う
